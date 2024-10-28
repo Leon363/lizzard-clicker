@@ -9,7 +9,7 @@
       <img @click="increment" ref="img" id="circle" :src="imgSrc" />
     </div>
   </div>
-</template>
+</template>  
 
 <script setup>
 import { ref, computed } from 'vue'

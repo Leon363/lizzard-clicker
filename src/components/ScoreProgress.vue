@@ -8,7 +8,7 @@
       <div class="progress-value" :style="{width: progress + '%' }"></div>
     </div>
   </div>
-</template>
+</template>  
 
 <script setup>
 import { useScoreStore } from '@/stores/score'

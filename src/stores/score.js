@@ -34,7 +34,7 @@ function computeLevelByScore(score) {
 export const useScoreStore = defineStore('score', {
   state: () => ({
     score: 0,
-  }),
+  }),  
   getters: {
     level: (state) => computeLevelByScore(state.score),
     currentScore(state) {
