@@ -10,7 +10,7 @@
 
     <ul class="list">
       <li class="list-item">
-        Maximilian
+        Maximilian 
         <span class="list-btn done">50</span>
       </li>
     </ul>

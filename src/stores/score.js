@@ -32,7 +32,7 @@ function computeLevelByScore(score) {
 }
 
 export const useScoreStore = defineStore('score', {
-  state: () => ({
+  state: () => ({ 
     score: 0,
   }),  
   getters: {

@@ -7,7 +7,7 @@
         Subscribe to telegram
 
         <span>
-          <a target="_blank" class="list-btn"> 50 </a>
+          <a target="_blank" class="list-btn"> 50 </a> 
         </span>
       </li>
     </ul>

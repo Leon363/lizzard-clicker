@@ -39,7 +39,7 @@ function increment(event) {
   img.value.style.setProperty('--tiltY', `${tiltY}deg`)
 
   setTimeout(() => {
-    img.value.style.setProperty('--tiltX', `0deg`)
+    img.value.style.setProperty('--tiltX', `0deg`) 
     img.value.style.setProperty('--tiltY', `0deg`)
   }, 300)
 
